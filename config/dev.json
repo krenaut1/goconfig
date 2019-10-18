@@ -1,0 +1,7 @@
+{
+	"ClientID":"myClientID-dev",
+	"ClientSecret":"myClientSecret-dev",
+	"TokenEndPoint":"https://login-dev.windstream.com/tokens",
+	"CertEndPoint":"https://login-dev.windstream.com/certs",
+	"UserInfoEndPoint":"https://login-dev.windstream.com/userinfo"
+}
